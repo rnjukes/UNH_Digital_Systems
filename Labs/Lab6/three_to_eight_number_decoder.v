@@ -2,7 +2,7 @@ module three_to_eight_display_decoder (
     I0, I1, I2, O0, O1, O2, O3, O4, O5, O6
 );
 
-input I0, I1, I2;
+input I0, I1, I2; //W13, W14, V15
 output O0, O1, O2, O3, O4, O5, O6;
 wire nI0, nI1, nI2;
 
